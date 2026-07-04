@@ -7,5 +7,14 @@ This is a simple Python program that checks whether a given year is a leap year 
 * Beginner-friendly Python code
 * Simple and easy to understand
 
+# Mini Project 2 - Temperature Conversion
+A simple Python program to convert temperatures between **Celsius**, **Fahrenheit**, and **Kelvin**.
+
+## Features
+- Celsius to Fahrenheit & Kelvin
+- Fahrenheit to Celsius & Kelvin
+- Kelvin to Celsius & Fahrenheit
+- Menu-driven interface
+
 **Language:** Python
 **Author:** Aditya Arora

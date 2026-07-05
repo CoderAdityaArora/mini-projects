@@ -16,5 +16,13 @@ A simple Python program to convert temperatures between **Celsius**, **Fahrenhei
 - Kelvin to Celsius & Fahrenheit
 - Menu-driven interface
 
+# Prime Number Checker
+A simple Python program to check whether a number is **Prime** or **Not Prime**.
+
+## Features
+- Checks if a number is prime
+- Simple and beginner-friendly
+- Uses basic conditional statements and loops
+
 **Language:** Python
 **Author:** Aditya Arora

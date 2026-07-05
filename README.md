@@ -16,7 +16,7 @@ A simple Python program to convert temperatures between **Celsius**, **Fahrenhei
 - Kelvin to Celsius & Fahrenheit
 - Menu-driven interface
 
-# Prime Number Checker
+# Mini Project 3 - Prime Number Checker
 A simple Python program to check whether a number is **Prime** or **Not Prime**.
 
 ## Features

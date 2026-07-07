@@ -33,5 +33,14 @@ A simple Python program that checks the strength of a password based on length, 
 * Provide improvement suggestions
 * Easy to use CLI interface
 
+# Mini Project 5 - Rock Paper Scissors Game
+A simple command-line Rock Paper Scissors game built using Python.
+
+## Features
+* Play against the computer
+* Random computer choice
+* Input validation
+* Play multiple rounds
+
 **Language:** Python
 **Author:** Aditya Arora

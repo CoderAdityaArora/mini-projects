@@ -42,5 +42,14 @@ A simple command-line Rock Paper Scissors game built using Python.
 * Input validation
 * Play multiple rounds
 
+# Mini Project 6 - Quiz Game
+A simple command-line Quiz Game built using Python. The game randomly selects questions, checks user answers, and displays the final score.
+
+## Features
+- Randomly selected questions
+- Instant answer validation
+- Score calculation
+- Beginner-friendly Python project
+
 **Language:** Python
 **Author:** Aditya Arora

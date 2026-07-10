@@ -60,5 +60,13 @@ A simple command-line To-Do List application built with Python. It allows users 
 - Remove completed tasks
 - Saves tasks automatically
 
+# Mini Project 8 - BMI Calculator
+A simple Python program that calculates Body Mass Index (BMI) using weight and height.
+
+## Features
+- Calculate BMI
+- Display BMI category
+- Beginner-friendly
+
 **Language:** Python
 **Author:** Aditya Arora

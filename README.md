@@ -51,5 +51,14 @@ A simple command-line Quiz Game built using Python. The game randomly selects qu
 - Score calculation
 - Beginner-friendly Python project
 
+# Mini Project 7 - To-Do List (Python)
+A simple command-line To-Do List application built with Python. It allows users to manage daily tasks and stores them in a text file.
+
+## Features
+- Add new tasks
+- View all tasks
+- Remove completed tasks
+- Saves tasks automatically
+
 **Language:** Python
 **Author:** Aditya Arora

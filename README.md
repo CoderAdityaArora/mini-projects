@@ -77,5 +77,27 @@ A simple command-line Tic Tac Toe game built with Python.
 * Input validation
 * Easy-to-use terminal interface
 
+# Mini Project 10 - Snake Game
+A classic Snake Game built with Python and Pygame. Control the snake, eat food to grow longer, and avoid colliding with the walls or yourself.
+
+## Features
+* Smooth snake movement
+* Random food generation
+* Live score display
+* Game over on wall or self collision
+
+## How to Run
+1. Install Pygame:
+
+   ```bash
+   pip install pygame
+   ```
+2. Start the game:
+
+   ```bash
+   python snake_game.py
+   ```
+
+
 **Language:** Python
 **Author:** Aditya Arora

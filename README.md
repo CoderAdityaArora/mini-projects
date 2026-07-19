@@ -101,3 +101,4 @@ A classic Snake Game built with Python and Pygame. Control the snake, eat food t
 
 **Language:** Python
 **Author:** Aditya Arora
+**B.tech CSE (AIML)**

@@ -69,7 +69,7 @@ A simple Python program that calculates Body Mass Index (BMI) using weight and h
 - Beginner-friendly
 
 # Mini Project 9 - Tic Tac Toe Game
-A simple command-line Tic Tac Toe game built with Python.
+A simple command-line Tic-Tac-Toe game built with Python.
 
 ## Features
 * Two-player gameplay
